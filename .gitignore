@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / editors
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# Env / secrets
+.env
+.env.*
+
+# Claude Code / Codex (локальное)
+.claude/settings.local.json
